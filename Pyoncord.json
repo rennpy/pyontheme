@@ -1,0 +1,135 @@
+{
+    "name": "Pyoncord",
+    "description": "Theme about Pyoncord (real and true)",
+    "authors": [
+        {
+            "name": "mlepc",
+            "id": "650805815623680030"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#d4d2ff"
+        ],
+        "HEADER_SECONDARY": [
+            "#6460af"
+        ],
+        "TEXT_NORMAL": [
+            "#e0deff"
+        ],
+        "TEXT_MUTED": [
+            "#c1c0df"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#6460af"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#403e6f"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#4944b1"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#322f7b"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#212034"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2b2a3b"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#26253b"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#0f0e18"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#3b3961"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#0f0e18"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#0f0e18"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#0f0e18"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#0f0e18"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#26253b"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#26253b"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#3b3961"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#2d2c48"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#3b3961"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#6b68a3"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#6b68a3"
+        ],#a5a0f1
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#26273b"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#5e5b8e"
+        ],
+        "TEXT_LINK": [
+            "#6b68a3"
+        ],
+        "TEXT_DANGER": [
+            "#6b68a3"
+        ],
+        "KEYBOARD": [
+            "#161621"
+        ],
+        "CHANNEL_ICON": [
+            "#e0deff"
+        ],
+        "CHAT_BACKGROUND": [
+            "#161621"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#9E8376",
+        "PRIMARY_100": "#e0deff",
+        "PRIMARY_200": "#d0cfef",
+        "PRIMARY_300": "#5e5b8e",
+        "PRIMARY_360": "#8884cc",
+        "PRIMARY_400": "#8884cc",
+        "PRIMARY_600": "#161621",
+        "PRIMARY_630": "#161621",
+        "PRIMARY_660": "#161621",
+        "PRIMARY_700": "#161621",
+        "PRIMARY_800": "#161621",
+        "BRAND_260": "#938edc",
+        "BRAND_360": "#a5a0f1",
+        "BRAND_500": "#8884cc",
+        "BRAND_560": "#8884cc",
+        "YELLOW_300": "#a5a0f1",
+        "GREEN_600": "#e0deff",
+        "RED_400": "#938edc",
+        "WHITE_500": "#e0deff",
+        "GREEN_360": "#605d91"
+    },
+    "spec": 2
+}
