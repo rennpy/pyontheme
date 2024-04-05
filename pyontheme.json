@@ -110,6 +110,9 @@
         ],
         "CHAT_BACKGROUND": [
             "#161621"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#161621"
         ]
     },
     "rawColors": {
