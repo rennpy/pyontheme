@@ -145,5 +145,10 @@
         "PLUM_13": "#26273b"
         
  },
+    "background": {
+        "blur": 0.1,
+        "url": "link"
+    },
     "spec": 2
+
 }
