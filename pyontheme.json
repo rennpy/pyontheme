@@ -102,6 +102,9 @@
         "KEYBOARD": [
             "#161621"
         ],
+        "BG_BACKDROP": [
+            "#000000B2"
+        ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#26273b"
         ],
@@ -127,6 +130,7 @@
         "PRIMARY_660": "#161621",
         "PRIMARY_700": "#161621",
         "PRIMARY_800": "#161621",
+        "BLACK_500": "#000000B2",
         "BRAND_260": "#938edc",
         "BRAND_360": "#a5a0f1",
         "BRAND_500": "#8884cc",
