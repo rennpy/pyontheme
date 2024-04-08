@@ -143,12 +143,17 @@
         "PLUM_20": "#212034",
         "PLUM_17": "#26273b",
         "PLUM_13": "#26273b"
+        "PLUM_16": "#2d2c48"
         
  },
     "background": {
         "blur": 0.1,
         "url": "https://raw.githubusercontent.com/rennpy/pyontheme/main/pyonpyon_bg.png"
     },
+  "plus": {
+    "version": "0",
+    "iconPack": "rosiecord-plumpy"
+},
     "spec": 2
 
 }
