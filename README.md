@@ -1,4 +1,4 @@
 # Pyoncord-Theme
 
-fully-fledged theme made for pyoncord (themes+ support, custom fonts soon)! supports the most recent versions of discord! also supports some older versions and the youbar 
-(which was removed in 226.6)
+Fully-fledged theme made for Pyoncord (themes+ support, custom fonts soon)! 
+- Supports the most recent versions of discord! also supports some older versions and the youbar (which was removed in 226.6)
