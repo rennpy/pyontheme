@@ -11,6 +11,7 @@ Fully-fledged theme made for Pyoncord (themes+ support, custom fonts soon)!
 
 
 # Preview
+![blossomed](https://github.com/rennpy/pyontheme/assets/158360149/912edfae-c7aa-41b2-81c4-6359261f3a2a)
 
 
 
